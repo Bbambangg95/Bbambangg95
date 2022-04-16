@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bbambangg95
+- 👋 Hi, I’m Bambang Ardiyansyah
 - 👀 I’m interested in programming web apps
 - 🌱 I’m currently learning php, javascrypt and reactJS library
 - 📫 How to reach me ...
