@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bbambangg95
 - 👀 I’m interested in programming web apps
-- 🌱 I’m currently learning php, mysql and javascrypt
-- 💞️ I’m looking to collaborate on javascrypt
+- 🌱 I’m currently learning php, javascrypt and reactJS library
 - 📫 How to reach me ...
 
 <!---
