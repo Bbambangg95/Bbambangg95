@@ -7,13 +7,13 @@
 
 ---
 
-#### <i class="fas fa-user"></i> About Me
+#### 🧑 About Me
 
 I am a dedicated iOS Developer with a knack for solving complex problems and a relentless drive to meet demanding development objectives within tight schedules. With a strong analytical mindset, I strive to produce impeccable code while continuously seeking innovative solutions. My expertise lies in SwiftUI, Core Data, and ARKit, among others, and I have a proven track record of leading teams to success.
 
 ---
 
-#### <i class="fas fa-briefcase"></i> Work History
+#### 💼 Work History
 
 **Team Lead & iOS Developer**  
 *Kuttaib, Remote*  
@@ -35,7 +35,7 @@ I am a dedicated iOS Developer with a knack for solving complex problems and a r
 
 ---
 
-#### <i class="fas fa-certificate"></i> Certifications
+#### 🎓 Certifications
 
 - **iOS Developer**  
   *Apple Developer Academy @IL, Batam Indonesia*
@@ -46,14 +46,14 @@ I am a dedicated iOS Developer with a knack for solving complex problems and a r
 
 ---
 
-#### <i class="fas fa-trophy"></i> Accomplishments
+#### 🏆 Accomplishments
 
 - **Kuttaib (2024):** Led the development of an innovative app designed to aid Quran memorization, securing selection into the prestigious Catalyst program at the Apple Developer Academy Indonesia.
 - **Mutabaah (2023):** Initiated and executed a personal project to assist Quran memorization teachers, resulting in the availability of the app on both the Play Store and App Store.
 
 ---
 
-#### <i class="fas fa-code"></i> Skills
+#### 💻 Skills
 
 - **iOS Development:** Swift, SwiftUI, Core Data, ARKit, SpriteKit
 - **Android Development:** Kotlin, Jetpack Compose, Room
@@ -63,7 +63,7 @@ I am a dedicated iOS Developer with a knack for solving complex problems and a r
 
 ---
 
-#### <i class="fas fa-fish"></i> Hobbies
+#### 🎣 Hobbies
 
 I am a passionate angler who finds solace and excitement in the pursuit of the perfect catch. Fishing is more than just a hobby for me; it's a way of life, offering moments of connection with nature and the thrill of the chase.
 
@@ -73,10 +73,3 @@ I am a passionate angler who finds solace and excitement in the pursuit of the p
 
 - [LinkedIn](https://www.linkedin.com/in/bambang-ardiyansyah-ba80b814b/)
 - [GitHub](https://github.com/Bbambangg95)
-
-<script src="https://kit.fontawesome.com/a076d05399.js"></script>
-<style>
-  .fas {
-    margin-right: 5px;
-  }
-</style>
